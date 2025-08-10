@@ -38,4 +38,4 @@ It provides user authentication (login/registration), profile management, and th
 - This project is for **learning and small-scale usage**.
 - 
 ## License
-This project is open-source and free to use
+This project is open-source and free to use.
