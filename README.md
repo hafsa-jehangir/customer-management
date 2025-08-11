@@ -36,6 +36,5 @@ It provides user authentication (login/registration), profile management, and th
 ## Notes
 - Ensure proper folder permissions to allow file uploads.
 - This project is for **learning and small-scale usage**.
-- 
 ## License
 This project is open-source and free to use.
